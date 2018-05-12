@@ -1,0 +1,29 @@
+_repo: The-Loom-of-Youth_18863
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waugh, Alec
+    alias: Waugh, Alexander Raban
+    birthdate: 1898
+    deathdate: 1981
+    gutenberg_agent_id: '8306'
+    url: http://www.gutenberg.org/2009/agents/8306
+    wikipedia: http://en.wikipedia.org/wiki/Alec_Waugh
+description: School life at an English school for boys prior to World War I.
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2006-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding schools -- England -- Fiction'
+- !lcc 'PR'
+title: The Loom of Youth
+url: http://www.gutenberg.org/ebooks/18863
